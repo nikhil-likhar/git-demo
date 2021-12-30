@@ -1,3 +1,4 @@
 Hello world
 done
 This is from bug 1
+Change for bug2
