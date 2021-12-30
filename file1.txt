@@ -4,5 +4,11 @@
 4. updated by teammate in master pulled
 5. Change for bug2
 
+
 6. file chnages online from gihub by someone
 7. file 1 updated by teamate for bug 3 on remote master
+
+file chnages online from gihub by someone
+
+change :- on local master for W17
+
