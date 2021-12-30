@@ -1,7 +1,8 @@
-Hello world
-done
-This is from bug 1
-updated by teammate in master pulled
-Change for bug2
+1. Hello world
+2. done
+3. This is from bug 1
+4. updated by teammate in master pulled
+5. Change for bug2
 
-file chnages online from gihub by someone
+6. file chnages online from gihub by someone
+7. file 1 updated by teamate for bug 3 on remote master
